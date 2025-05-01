@@ -1,0 +1,12 @@
+{
+    "bugs": [
+        {
+            "id": 1,
+            "title": "Login not working",
+            "description": "Login fails when using special characters.",
+            "status": "Open",
+            "priority": "High",
+            "assignedTo": "Alice"
+        }
+    ]
+}
